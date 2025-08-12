@@ -1,13 +1,13 @@
 # Basic Linux Commands
-''bash
+``bash
 >>pwd
 
-'''
+```
 output example:
-'''
+```
 c:\Linux_Lab
 
-'''
+```
 # ls command
 
 This ls commandin linux allows to view all the files and folders in currently working directory. 
