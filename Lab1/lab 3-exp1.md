@@ -1,4 +1,9 @@
 # Basic Linux Commands
+
+## pwd - Print Working Directory
+
+Prints the current working directory
+
 ```bash
 >>pwd
 ```
@@ -9,15 +14,23 @@ output example:
 c:\Linux_Lab
 ```
 
-## ls command
+## ls command - List Directory Contents
 
-This ls commands in linux allows to view all the files and folders in currently working directory. 
-   Directory: C:\Linux_Lab
+Lists files and folders in the current directory.
+
+```bash
+ls
+```
 
 
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
-d-----         8/12/2025  12:27 PM                Lab1
+ * `ls -l` → Displays the list of files and directories in the current working directory.
+ * `ls -a` → Shows hidden files (those starting with `.`)
+ * `ls -la` → Combined
+
+Directory: C:\Linux_Lab
+
+Mode                LastWriteTime         Length Name
+d-----        8/12/2025   12:27 PM                Lab1
 
 ## Image Snap Shots
 
