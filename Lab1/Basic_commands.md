@@ -24,4 +24,4 @@
   
   ### Snapshot:
   
-![alt text](<../Users/Surinder Singh/Downloads/screen.png>)
+![alt text](screen.png)
