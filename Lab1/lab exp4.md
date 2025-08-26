@@ -9,5 +9,5 @@ After that we made a text file `data` in the child folder and copied that file f
  
  ### Terminal Output:
 
-![alt text](<Screenshot 2025-08-17 150354.png>)
+!![alt text](image-0.png)
 
