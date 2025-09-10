@@ -81,3 +81,16 @@
      ![alt text](<WhatsApp Image 2025-09-10 at 20.28.35_6bd0bdf9.jpg>)
  
 
+Extra Questions
+
+Q1. What is the difference between chmod and chown?
+ Ans. chmod:-This command modifies the permissions of a file or directory.-Permissions define what actions such as read, write or execute can be performed by
+ different entities (owner, group, others).
+ chown:-This command modifies the ownership of a file or directory.-It changes which user and/or group is associated with the file or directory.
+
+ 
+ Q2. How do you check current directory and user?
+ Ans. To check the current directory, we use the command pwd. It displays the full and
+ absolute path of the current working directory.
+ To check the current user, we use the command whoami. It displays the username of the
+ current effective user.
