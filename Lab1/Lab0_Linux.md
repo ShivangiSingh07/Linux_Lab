@@ -209,6 +209,20 @@ Head over to the official [Ubuntu](https://ubuntu.com/download) site and downloa
  With the installation of Ubuntu on VirtualBox, the main objective of this assignment has been successfully achieved. The process helped me understand virtualization and how operating systems can be managed in a virtual environment.
 ```
 
+
+Extra Questions
+1.What are two advantages of installing Ubuntu in VirtualBox?
+
+ans:
+* No Need to Modify Your Main System VirtualBox allows you to run Ubuntu inside your existing OS (like Windows or macOS), so you don’t need to partition your hard drive or risk messing up your current setup. It’s perfect for testing or learning without commitment.
+* Run Multiple OSes Simultaneously You can use Ubuntu and your host OS at the same time.
+
+2.What are two advantages of dual booting instead of using a VM?
+
+ans:
+* Full Hardware Performance Dual booting gives Ubuntu direct access to your system’s hardware
+*  Greater Stability for Long Sessions Since only one OS runs at a time, there’s no resource sharing or virtualization overhead.
+
 <h2 align="center">Thank you</h2>
 
 
