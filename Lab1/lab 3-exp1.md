@@ -34,6 +34,6 @@ d-----        8/12/2025   12:27 PM                Lab1
 
 ## Image Snap Shots
 
-![alt text](<../Screenshot 2025-08-12 124311.png>)
+![alt text](<Images/Screenshot 2025-08-12 124311.png>)
 
 
