@@ -5,10 +5,10 @@
  Script chosen: Script_5.sh
 
  The program:
- ![alt text](<WhatsApp Image 2025-09-10 at 21.54.47_7d382260.jpg>)
+ ![alt text](<Images/WhatsApp Image 2025-09-10 at 21.54.47_7d382260.jpg>)
 
  Output:
- ![alt text](<WhatsApp Image 2025-09-10 at 21.54.47_7d382260-1.jpg>)
+ ![alt text](<Images/WhatsApp Image 2025-09-10 at 21.54.47_7d382260-1.jpg>)
 
 
 *  Before modifying the program, user input was invalid. Range was
@@ -21,14 +21,14 @@
 
 
  The program is as follows:
- ![alt text](<WhatsApp Image 2025-09-10 at 22.22.13_8bf025f5.jpg>)
+ ![alt text](<Images/WhatsApp Image 2025-09-10 at 22.22.13_8bf025f5.jpg>)
 
-![alt text](<WhatsApp Image 2025-09-10 at 22.22.20_a9b8dcb7.jpg>)s
+![alt text](<Images/WhatsApp Image 2025-09-10 at 22.22.20_a9b8dcb7.jpg>)s
 
 Result:
 
 
-![alt text](<Screenshot 2025-09-10 221912.png>)
+![alt text](<Images/Screenshot 2025-09-10 221912.png>)
 
 Difference between old script and new script:
 
@@ -55,3 +55,7 @@ Q1. Difference between 1,@, and $# in bash?
  Q2. What does exit 1 mean in a script?
 Ans. exit 1 means that a problem or an error has occured during the script's
  execution
+
+
+ 
+ <h2 align="center">Thank you☺️</h2>

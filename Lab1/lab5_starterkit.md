@@ -4,12 +4,12 @@
 
 * Create a script named starter_k.sh and write the code in it.
 
-![alt text](<WhatsApp Image 2025-09-10 at 23.13.59_b1bc0210.jpg>)
+![alt text](<Images/WhatsApp Image 2025-09-10 at 23.13.59_b1bc0210.jpg>)
 
 ```bash
 Code
 ```
-![alt text](<WhatsApp Image 2025-09-10 at 23.16.38_e891879f.jpg>)
+![alt text](<Images/WhatsApp Image 2025-09-10 at 23.16.38_e891879f.jpg>)
 
 ## Purpose: 
 
@@ -20,15 +20,16 @@ The starter_kit.sh script helps set up a simple project layout by creating key d
  
  Example :
 
-![alt text](<WhatsApp Image 2025-09-10 at 23.19.01_e35250c2.jpg>)
+![alt text](<Images/WhatsApp Image 2025-09-10 at 23.19.01_e35250c2.jpg>)
 
 Extra Questions:
 
  Q1. What does mkdir -p do?
- soultion: 
- mkdir -p: Creates a new, empty directory or parent directory, whose name is
+
+ sol: 
+ * mkdir -p: Creates a new, empty directory or parent directory, whose name is
  defined by path, if the directory already doesn't exists.
- If the directory already exists it doesn't show any error.
+ * If the directory already exists it doesn't show any error.
 
 
  Q2. Why is automation useful in DevOps?

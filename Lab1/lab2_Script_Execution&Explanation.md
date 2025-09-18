@@ -5,7 +5,7 @@
 
  * Script_2.sh
 
-![alt text](<WhatsApp Image 2025-09-10 at 20.58.59_5974c1d0-1.jpg>)
+![alt text](<Images/WhatsApp Image 2025-09-10 at 20.58.59_5974c1d0-1.jpg>)
 
 EXPLANATION:
 🔸Bash reads the script line by line.
@@ -17,11 +17,11 @@ After running the program, the output was:
 ```bash
 Output
 ```
-![alt text](<WhatsApp Image 2025-09-10 at 21.20.39_69525c4a.jpg>)
+![alt text](<Images/WhatsApp Image 2025-09-10 at 21.20.39_69525c4a.jpg>)
 
 * Scriptr_4.sh
 
-![alt text](<WhatsApp Image 2025-09-10 at 21.23.14_168dad8d.jpg>)
+![alt text](<Images/WhatsApp Image 2025-09-10 at 21.23.14_168dad8d.jpg>)
 
 EXPLANATION:
 🔸 This script cointains a program having conditional statements (if-else) . 
@@ -33,7 +33,7 @@ EXPLANATION:
 ```bash
 Output
 ```
-![alt text](<WhatsApp Image 2025-09-10 at 21.31.26_3c453942.jpg>)
+![alt text](<Images/WhatsApp Image 2025-09-10 at 21.31.26_3c453942.jpg>)
 
 
 
@@ -53,3 +53,6 @@ Ans. The purpose of #!/bin/bash at the top of the script is:
  script.
  2. Use chmod command to add execute permissions to the script file.
  3. Once the execute permisssions are set, run the script from the terminal
+
+
+<h2 align="center">Thank you☺️</h2>
