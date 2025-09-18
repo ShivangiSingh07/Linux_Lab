@@ -40,7 +40,7 @@ Note: For the installation of VirtualBox on Windows, download the installer from
 
 *  Click Yes if Windows asks for permission. 
 
-![alt text](VirtualBox-Windows-Installation-01.png)
+![alt text](Images/VirtualBox-Windows-Installation-01.png)
 
 ### 3️⃣ Choose Installation Location
 
@@ -48,7 +48,7 @@ Note: For the installation of VirtualBox on Windows, download the installer from
 
 *  The default location is fine—click Next unless you want to change the location.
 
-![alt text](VirtualBox-Windows-Installation-02.png)
+![alt text](Images/VirtualBox-Windows-Installation-02.png)
 
 ### 4️⃣ Select Features and Shortcuts
 
@@ -60,7 +60,7 @@ Note: For the installation of VirtualBox on Windows, download the installer from
 
 *  Click on the "Next" option.
 
-![alt text](VirtualBox-Windows-Installation-03.png)
+![alt text](Images/VirtualBox-Windows-Installation-03.png)
 
  ### 5️⃣ Network Warning
 
@@ -75,7 +75,7 @@ Note: For the installation of VirtualBox on Windows, download the installer from
 
 * Click Install to start the process
 
-![alt text](<VirtualBox-Windows-Installation-04 (1).png>)
+![alt text](<Images/-Windows-Installation-04 (1).png>)
 
 ### 7️⃣ Installation Progress
 
@@ -83,7 +83,7 @@ Note: For the installation of VirtualBox on Windows, download the installer from
 
 * If prompted to install drivers, click Install
 
-![alt text](VirtualBox-Windows-Installation-05.png)
+![alt text](Images/VirtualBox-Windows-Installation-05.png)
 
 ### 8️⃣ Finish Setup
 
@@ -91,7 +91,7 @@ Note: For the installation of VirtualBox on Windows, download the installer from
 
 * VirtualBox will open automatically (unless you uncheck that option)
 
-![alt text](VirtualBox-Windows-Installation-07.png)
+![alt text](Images/VirtualBox-Windows-Installation-07.png)
 
 ### 🖥️ After Installation
 
@@ -99,7 +99,7 @@ Note: For the installation of VirtualBox on Windows, download the installer from
 
 * From here, you can start creating virtual machines and install other operating systems.
 
-![alt text](VirtualBox-Windows-Installation-08.png)
+![alt text](Images/VirtualBox-Windows-Installation-08.png)
 
 
 
@@ -118,7 +118,7 @@ Head over to the official [Ubuntu](https://ubuntu.com/download) site and downloa
 
 * Open VirtualBox → Click New.
 
-![alt text](Ubuntu-VirtualBox-Installation-00.png)
+![alt text](Images/Ubuntu-VirtualBox-Installation-00.png)
 
 * Name: Ubuntu.
 
@@ -126,7 +126,7 @@ Head over to the official [Ubuntu](https://ubuntu.com/download) site and downloa
 
 * Version: Ubuntu (64-bit) Click Next.
 
-![alt text](Ubuntu-VirtualBox-Installation-011-1.png)
+![alt text](Images/Ubuntu-VirtualBox-Installation-011-1.png)
 
 ### 3️⃣ Assign RAM
 
@@ -134,17 +134,17 @@ Head over to the official [Ubuntu](https://ubuntu.com/download) site and downloa
 
 * Recommended: 4096 MB (or more if your system can handle it) Click Next.
 
-![alt text](<Ubuntu-VirtualBox-Installation-02 (1).png>)
+![alt text](<Images/Ubuntu-VirtualBox-Installation-02 (1).png>)
 
 ### 4️⃣ Set Up Virtual Hard Disk
 
 * Choose “Create a virtual hard disk now” → Click Create.
 
-![alt text](Ubuntu-VirtualBox-Installation-03.png)
+![alt text](Images/Ubuntu-VirtualBox-Installation-03.png)
 
 * Format: VDI.
 
-![alt text](Ubuntu-VirtualBox-Installation-04.png)
+![alt text](Images/Ubuntu-VirtualBox-Installation-04.png)
 
 * Storage: Dynamically allocated.
 
@@ -152,7 +152,7 @@ Head over to the official [Ubuntu](https://ubuntu.com/download) site and downloa
 
 * Size: At least 10-20 GB. Click Create.
 
-![alt text](Ubuntu-VirtualBox-Installation-061.png)
+![alt text](Images/Ubuntu-VirtualBox-Installation-061.png)
 
 ### 5️⃣ Mount the Ubuntu ISO
 
@@ -160,7 +160,7 @@ Head over to the official [Ubuntu](https://ubuntu.com/download) site and downloa
 
 * Click the empty disk icon 
 
-![alt text](Ubuntu-VirtualBox-Installation-081.png)
+![alt text](Images/Ubuntu-VirtualBox-Installation-081.png)
 
 * On the right, click the disk symbol → Choose your downloaded Ubuntu ISO Click OK
 
@@ -176,12 +176,12 @@ Head over to the official [Ubuntu](https://ubuntu.com/download) site and downloa
 
 * Choose language and keyboard layout
 
-![alt text](Ubuntu-VirtualBox-Installation-101-1.png)
-![alt text](Ubuntu-VirtualBox-Installation-111.png)
+![alt text](Images/Ubuntu-VirtualBox-Installation-101-1.png)
+![alt text](Images/Ubuntu-VirtualBox-Installation-111.png)
 
 * Select “Normal Installation”
 
-![alt text](16-normal-installation.png)
+![alt text](Images/16-normal-installation.png)
 
 * Click Continue
 
@@ -193,13 +193,13 @@ Head over to the official [Ubuntu](https://ubuntu.com/download) site and downloa
 
 * Fill in your name, username, password, etc. Click Continue Let Ubuntu do its thing—it’ll take a few minutes.
 
-![alt text](15-username-pass.png)
+![alt text](Images/15-username-pass.png)
 
 ### 🔟 Final Touch
 
 * Once it’s done. Click Restart.
 
-![alt text](17-restart.png)
+![alt text](Images/17-restart.png)
 
 * Now Your virtual Ubuntu system is ready to explore.
 
@@ -223,7 +223,7 @@ ans:
 * Full Hardware Performance Dual booting gives Ubuntu direct access to your system’s hardware
 *  Greater Stability for Long Sessions Since only one OS runs at a time, there’s no resource sharing or virtualization overhead.
 
-<h2 align="center">Thank you</h2>
+<h2 align="center">Thank you☺️</h2>
 
 
 
