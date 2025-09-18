@@ -1,4 +1,4 @@
-# Experiment 4: Directory Operations in Linux
+# Experiment: Directory Operations in Linux
 
 ### Experiment Description:
 
