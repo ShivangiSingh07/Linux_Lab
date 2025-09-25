@@ -14,7 +14,7 @@ Explanation:
 
 ### 📷 Output Snapshot:
 
-![SS1](<WhatsApp Image 2025-09-25 at 11.46.47_111421e7.jpg>)
+![SS1](<Images/WhatsApp Image 2025-09-25 at 11.46.47_111421e7.jpg>)
 
 ## 2️⃣ Process Tree 🌳
 
@@ -28,7 +28,7 @@ pstree -p
 
 ### 📷 Output Snapshot:
 
-![SS2](<WhatsApp Image 2025-09-25 at 11.46.50_6353f38d.jpg>)
+![SS2](<Images/WhatsApp Image 2025-09-25 at 11.46.50_6353f38d.jpg>)
 
 
 ## 3️⃣ Real-Time Monitoring
@@ -42,7 +42,7 @@ top
 
 ### 📷 Output Snapshot: 
 
-![ss3](<WhatsApp Image 2025-09-25 at 11.46.53_d7bddf70.jpg>)
+![ss3](<Images/WhatsApp Image 2025-09-25 at 11.46.53_d7bddf70.jpg>)
 
  
 
@@ -60,7 +60,7 @@ top
 
   ### 📷 Output Snapshot:
 
-![ss4](<WhatsApp Image 2025-09-25 at 11.46.57_58bb2377.jpg>)
+![ss4](<Images/WhatsApp Image 2025-09-25 at 11.46.57_58bb2377.jpg>)
 
 
 
@@ -72,7 +72,7 @@ renice -n -5 -p 3248
 ➡️ Now process runs with higher priority.
 
 ### 📷 Output Snapshot:
-![ss4](<WhatsApp Image 2025-09-25 at 11.47.00_ea4b6fe5.jpg>)
+![ss4](<Images/WhatsApp Image 2025-09-25 at 11.47.00_ea4b6fe5.jpg>)
 
 
 ## 5️⃣ CPU Affinity (Bind Process to CPU Core)
@@ -85,7 +85,7 @@ renice -n -5 -p 3248
 
 ### 📷 Output Snapshot:
 
-![ss5](<WhatsApp Image 2025-09-25 at 11.47.03_eb2e3c78.jpg>)
+![ss5](<Images/WhatsApp Image 2025-09-25 at 11.47.03_eb2e3c78.jpg>)
 
 * pid 3369's current affinity list: 0-3
 
@@ -99,7 +99,7 @@ taskset -cp 1 3369
 
 ### 📷 Output Snapshot:
 
-![ss6](<WhatsApp Image 2025-09-25 at 11.47.12_4b348e36.jpg>)
+![ss6](<Images/WhatsApp Image 2025-09-25 at 11.47.12_4b348e36.jpg>)
 
 ## 6️⃣ I/O Scheduling Priority
 
@@ -111,7 +111,7 @@ ionice -c 3 -p 3369
 
 ### 📷 Output Snapshot:
 
-![ss7](<WhatsApp Image 2025-09-25 at 11.47.17_0c7e7a01.jpg>)
+![ss7](<Images/WhatsApp Image 2025-09-25 at 11.47.17_0c7e7a01.jpg>)
 
 
 ➡️ Class 3 (idle) → Process only gets I/O when system is idle.
@@ -127,7 +127,7 @@ ionice -c 3 -p 3369
 
 ### 📷 Output Snapshot:
 
-![ss8](<WhatsApp Image 2025-09-25 at 11.47.22_e00d31bc.jpg>)
+![ss8](<Images/WhatsApp Image 2025-09-25 at 11.47.22_e00d31bc.jpg>)
 
 
 ## 8️⃣  Trace System Calls of a Process
@@ -140,7 +140,7 @@ strace -p 3477
 
 ### 📷 Output Snapshot:
 
-![ss9](<WhatsApp Image 2025-09-25 at 11.47.25_ecbd5cea.jpg>)
+![ss9](<Images/WhatsApp Image 2025-09-25 at 11.47.25_ecbd5cea.jpg>)
 
 
 ➡️ Great for debugging.
@@ -171,7 +171,7 @@ sudo fuser -n tcp 8080
 
 ### 📷 Output Snpashot:
 
-![ss10](<WhatsApp Image 2025-09-25 at 11.47.25_ea0492aa.jpg>)
+![ss10](<Images/WhatsApp Image 2025-09-25 at 11.47.25_ea0492aa.jpg>)
 
 - Shows CPU usage every 2 seconds, 3 times.
 
