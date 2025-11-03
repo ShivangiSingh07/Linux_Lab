@@ -296,3 +296,8 @@ sudo schedtool -R -p 10 <pid>
 | cgroups | File-grained resource management | nice (more powerful) |
 | systemd-run | systemd+cgroups resource management | nice |
 | schedtool | Custom scheduling policies | nice |
+
+
+
+
+<h2 align="center">Thank you☺️</h2>
