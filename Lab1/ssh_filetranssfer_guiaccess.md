@@ -44,8 +44,8 @@ Open the folder containing the  file.
 4. 	Copy the File
 Right-click the  file → Copy → Paste it into a local folder.
 
-✅ Result
+## Result
 The  file is successfully transferred from System One to System Two using GUI-based Samba sharing.
 
 
-
+<h2 align="center">Thank you☺️</h2>
