@@ -25,12 +25,16 @@ sudo apt install openssh-server
 sudo systemctl enable ssh
 sudo systemctl start ssh
 ```
+![same1](<Screenshot 2025-11-03 183802.png>)
+
+
 • This sets up the SSH server so the machine can accept incoming connections.
 
 ### Step 2: Find IP Address
 ```bash
 ip a
 ```
+
 - Look for the IP address under your active interface (e.g., 192.168.x.y)
 - Share this IP with the Sender machine
 
@@ -38,6 +42,9 @@ ip a
 ```bash
 sudo systemctl status ssh
 ```
+![same2](image.png)
+
+
 - Make sure it shows active (running)
 
 ## 🖥️ Role 2: Sender Machine (Machine that will send the file)
@@ -109,7 +116,8 @@ ssh username@remote_ip
 - You should connect without a password prompt.
 
 
-# 🧪 Experiment 2: Transfer a File Using SSH Between Machines on Different Networks
+# 🧪 Experiment 2
+: Transfer a File Using SSH Between Machines on Different Networks
 
 ---
 
